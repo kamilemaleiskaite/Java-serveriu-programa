@@ -1,0 +1,9 @@
+
+kamile: labas
+SERVERIO VEIKLA: SERVER: Sukūrėte ir prisijungėte prie kambario 'room'
+SERVERIO VEIKLA: SERVER: kamile sukūrė kambarį 'room'
+SERVERIO VEIKLA: SERVER: Prisijungei prie kambario 'room'
+kamile: labas
+SERVERIO VEIKLA: SERVER: Prisijungei prie kambario 'room'
+PRIVATI žinutė iš kamile: kakakaka
+Privati: kakakaka
